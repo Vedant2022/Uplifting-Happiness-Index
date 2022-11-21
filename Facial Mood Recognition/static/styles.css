@@ -1,0 +1,16 @@
+.body{
+  background: url('static\\hori.jpg');
+}
+
+.container form a:link, a:visited {
+    background-color: #ff1100;
+    color: rgb(0, 0, 0);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .container form a:hover, a:active {
+    background-color: rgb(30, 245, 15);
+  }

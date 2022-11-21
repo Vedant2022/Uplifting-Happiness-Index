@@ -1,0 +1,245 @@
+.body{
+    margin: 0;
+}
+
+.navbar{
+    max-width:fit-content;
+    
+}
+/* 
+.navbar logo h1{
+    font-weight: bolder;
+    font-size: 10px;
+
+} */
+
+.navbar ul {
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  }
+
+.navbar li {
+    float: right;
+}
+
+.navbar li a{
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar li a:hover {
+    background-color: #111;
+  }
+
+  .maincontainer{
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+    
+  }
+
+  .container1 h1{
+    font-size: 50px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 800px;
+    margin-left: 10.5em;
+  }
+
+  
+  .surveydata{
+    display: flex;
+  }
+
+  .textsurvey{
+    /* border: 1px solid black; */
+    width: max-content;
+    height: max-content;
+    margin-left: 12em;
+    margin-top: 10em;
+  }
+
+  .child{
+    margin-left: 40px;
+    width: max-content;
+    border: 2px solid black;
+    display: inline;
+
+  }
+  
+
+  .textsurvey h1{
+    font-size: 40px;
+    font-family: Arial;
+  }
+
+
+
+  .pcc{
+    display: flex;
+  }
+
+  .textpcc{
+    /* border: 1px solid black; */
+   
+    width: max-content;
+    height: max-content;
+    margin-left: 12em;
+    margin-top: 18em;
+  }
+
+  .child2{
+    margin-left: 40px;
+    width: max-content;
+    border: 2px solid black;
+    display: inline;
+
+  }
+
+  .textpcc h1{
+    font-size: 40px;
+    font-family: Arial;
+  }
+
+
+  
+
+  .textheatmap{
+    /* border: 1px solid black; */
+   
+    width: max-content;
+    height: max-content;
+    margin-left: 12em;
+    margin-top: 10em;
+  }
+
+  .child3{
+    margin-left: 170px;
+    width: max-content;
+    border: 2px solid black;
+    display: inline;
+
+  }
+
+  .textheatmap h1{
+    font-size: 40px;
+    text-align: center;
+    margin-left: 12em;
+    font-family: Arial;
+  }
+  
+
+
+  
+
+  .textpariplot{
+    /* border: 1px solid black; */
+   
+    width: max-content;
+    height: max-content;
+    margin-left: 12em;
+    margin-top: 7em;
+  }
+
+  .child4{
+    margin-left: 220px;
+    width: max-content;
+    border: 2px solid black;
+    display: inline;
+
+  }
+
+  .textpariplot h1{
+    font-size: 40px;
+    text-align: center;
+    margin-left: 15em;
+    font-family: Arial;
+  }
+
+
+  .textcountry{
+    /* border: 1px solid black; */
+   
+    width: max-content;
+    height: max-content;
+    
+   
+  }
+
+  .child5{
+    margin-left: 500px;
+    width: max-content;
+    height: max-content;
+    border: 2px solid black;
+    display: inline;
+
+  }
+
+  .textcountry h1{
+    margin-left: 670px;
+    font-size: 40px;
+  }
+
+
+
+
+
+
+
+  .textexamine{
+    /* border: 1px solid black; */
+   
+    width: max-content;
+    height: max-content;
+    
+   
+  }
+
+  .child6{
+    margin-left: 440px;
+    width: max-content;
+    height: max-content;
+    border: 2px solid black;
+    display: inline;
+
+  }
+
+  .textexamine h1{
+    margin-left: 800px;
+    font-size: 40px;
+  }
+
+
+hr{
+    height: 3px;
+}
+
+  .texthappy{
+    /* border: 1px solid black; */
+   
+    width: max-content;
+    height: max-content;
+    
+   
+  }
+
+  .child7{
+    margin-left: 560px;
+    width: max-content;
+    height: max-content;
+    border: 2px solid black;
+    display: inline;
+
+  }
+
+  .texthappy h1{
+    margin-left: 740px;
+    font-size: 40px;
+  }
