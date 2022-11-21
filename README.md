@@ -13,7 +13,8 @@ Using the same formula we calculate the Happiness Index of the user.
 
 Happiness Index ranges as follow:
 
-0-4 -------> User is in very bad phase #/n
+0-4 -------> User is in very bad phase 
+
 5 and 6 ---> User is in struggling phase
 7-10 ------> User is in thriving condition that is he/she is happy
 
